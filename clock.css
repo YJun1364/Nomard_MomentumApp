@@ -1,0 +1,11 @@
+.clicked{
+    color: aquamarine;
+}
+.form,
+.greetings{
+    display: none;
+}
+
+.showing{
+    display: block;
+}
