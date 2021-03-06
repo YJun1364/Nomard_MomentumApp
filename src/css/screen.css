@@ -1,0 +1,25 @@
+.screen {
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+}
+.nav-bar {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.main-clock {
+  height: 80%;
+  font-family: "Noto Sans JP", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+  color: white;
+}
+
+.todoList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
